@@ -1,12 +1,9 @@
 # 🧠 INDEX DE LA MÉMOIRE (KNOWLEDGE)
-> *Dernière mise à jour par script : {{TIMESTAMP}}*
+> *Dernière mise à jour par script : 2026-09-30 23:46:22*
 > *Règle pour les agents : Ce document est une carte de la base de savoirs. Pour approfondir un sujet, un sous-agent doit aller lire la fiche correspondante dans le répertoire.*
 
 ## 🗂️ Fiches de Savoirs Principales (par tags)
 
 <!-- KNOWLEDGE_LIST_START -->
-<!-- Le script génère ici la liste dynamique au format :
-### 🏷️ #[Nom_Du_Tag]
-- `[Nom_Du_Fichier.md]` : [Extrait de la description ou du frontmatter YAML]
--->
+_Aucune fiche trouvée dans `01_knowledge/concepts/` ou `01_knowledge/sources/`._
 <!-- KNOWLEDGE_LIST_END -->
